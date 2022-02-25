@@ -8,6 +8,8 @@ public class Cliente {
 		
 		gp.ingresarValores();
 		
+		
+		
 	}
 	
 }
