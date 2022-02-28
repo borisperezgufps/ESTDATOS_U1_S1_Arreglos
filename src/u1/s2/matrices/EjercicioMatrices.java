@@ -1,10 +1,10 @@
 package u1.s2.matrices;
 
-public class Ejemplo1 {
+public class EjercicioMatrices {
 
 	private int[][] matriz;
 	
-	public Ejemplo1(int filas, int columnas) {
+	public EjercicioMatrices(int filas, int columnas) {
 		matriz = new int[filas][columnas];
 	}
 	
